@@ -13,6 +13,12 @@
 +Other: Thymeleaf, MySQL
 
 
+-Data Model
+
+
+![datamodel](https://user-images.githubusercontent.com/125273807/218765940-50ce2143-28aa-45cd-bef8-83886fff0104.png)
+
+
 
 -Function:
 
